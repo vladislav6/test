@@ -508,3 +508,11 @@ ul.pict li{
 		padding-top: 65px;
 	}
 }
+@media only screen and (min-width: 1615px){
+	#wrapper{
+		width: 1600px;
+		margin: 0 auto;
+		border-left: 1px solid silver;
+		border-right: 1px solid silver;
+	}
+}
